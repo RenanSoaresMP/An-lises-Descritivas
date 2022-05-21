@@ -1,7 +1,7 @@
 # Análises Descritivas
 Projeto do curso de 'Estatística com Python parte 1: frequências e medidas' da Alura
 
-Bibliotecas utilizadas: Pandas, Seaborn,Numpy
+Bibliotecas utilizadas: Pandas, Seaborn,Numpy e Matplotlib.
 
 # Objetivos
 
